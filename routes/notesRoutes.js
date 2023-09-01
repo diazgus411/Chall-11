@@ -20,8 +20,7 @@ router.post('/api/notes', (req, res) => {
     fs.writeFileSync('./db/db.json', JSON.stringify(db));
     res.json(db);
 })
-
-// delete note from db
+// Delete a note BONUS
 router.delete('/api/notes/:id', (req, res) => {
     console.log("Hello World")
     

@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Walk Dog",
+        "text": "go to the park with Uju! ",
+        "id": "9b1678fa-1218-498c-ad35-f385e0891a89"
+    },
+    {
+        "title": "Grocery",
+        "text": "Go to the market",
+        "id": "b7c87f96-cee6-44d7-aa8b-ec3e86f30e6a"
+    },
+    {
+        "title": "Practice",
+        "text": "band practice at 8pm!",
+        "id": "e6edc9bb-eb39-4d2a-98d9-019d3364463f"
+    },
+    {
+        "title": "Workout",
+        "text": "go to the gym",
+        "id": "d2169068-6289-48a1-a6c8-ebca7b5c7189"
+    }
+]
